@@ -4,7 +4,7 @@
     padding: 0;
 }
 body{
-    background-color:lightgrey;
+    background-color:whitesmoke;
     font-family: montserrat;
 }
 .white{
@@ -69,12 +69,29 @@ body{
 .intestazione{
     margin-left: 0.3rem;
 }
-.check{
-    color: green;
-
-}
 .cross{
     color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 3px;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    line-height: 18px;
+    margin right: 1;
+    text-align: center;
+}
+.check{
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 3px;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    line-height: 18px;
+    margin right: 1;
+    text-align: center;
 }
 .cerchio{
     background-color: #2bbfff;
