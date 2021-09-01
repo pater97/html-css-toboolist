@@ -5,6 +5,7 @@
 }
 body{
     background-color:lightgrey;
+    font-family: montserrat;
 }
 .white{
     background-color: white;
@@ -50,4 +51,53 @@ body{
     color: lightgray;
     border-color: lightgrey;
     border-width: 1px;
+}
+.s2{
+    margin: auto;
+    width: 70%;
+    padding: 1rem;
+    margin-top: 0.1rem;
+    line-height: 2.5rem;
+    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    margin-bottom: 1rem;
+    
+}
+.freccia{
+    font-size: 0.6rem;
+}
+.intestazione{
+    margin-left: 0.3rem;
+}
+.check{
+    color: green;
+
+}
+.cross{
+    color: red;
+}
+.cerchio{
+    background-color: #2bbfff;
+    border-radius: 10px;
+    padding: 0.3rem;
+    color: white;
+    font-size: 0.7rem;
+}
+.principale{
+    margin-top: 1rem;
+}
+.viola{
+    background-color: #a273ec;
+}
+.verde{
+    background-color: #04ccb0;
+}
+.arancione{
+    background-color: orange;
+}
+.lailac{
+    background-color: violet;
+}
+.lime{
+    background-color: yellowgreen;
 }
