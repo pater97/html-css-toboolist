@@ -25,3 +25,29 @@ body{
     font-size: 3rem;
     
 }
+.s1{
+    margin: auto;
+    width: 70%;
+    padding: 1rem;
+    margin-top: 2rem;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.button1{
+    margin-left: 2rem;
+    background-color:#19bfff;
+    border-radius: 4px;
+    padding: 6px;
+    color: white;
+    border-color: #19bfff;
+    border-width: 0;
+}
+.button2{
+    margin-left: 0.2rem;
+    background-color: white;
+    border-radius: 4px;
+    padding: 6px;
+    color: lightgray;
+    border-color: lightgrey;
+    border-width: 1px;
+}
